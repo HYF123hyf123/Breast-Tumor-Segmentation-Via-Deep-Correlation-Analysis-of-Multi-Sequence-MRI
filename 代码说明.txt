@@ -1,0 +1,6 @@
+3lstm_mm_unet：lstm_mmunet_my.py(GPU代码)
+                             lstm_mmunet_my_cpu（CPU代码） 
+                             train.py 训练网络
+
+draw_tumor：预测结果可视化代码
+draw_curve：绘制loss和dice曲线
